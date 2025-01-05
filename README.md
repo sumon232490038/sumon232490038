@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer and Future App Development Enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available at [https://ph-assignment-11-e59b9.web.app/](https://ph-assignment-11-e59b9.web.app/)
+- 👨‍💻 My recent projects are available at [https://ph-assignment-11-e59b9.web.app/](https://ph-assignment-11-e59b9.web.app/)
 - 📫 How to reach me **info.sumonmia1@gmail.com**
 - 📄 Know about my experiences [https://sumon360.tiiny.site/](https://sumon360.tiiny.site/)
 
