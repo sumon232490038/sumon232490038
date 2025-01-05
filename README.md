@@ -1,4 +1,4 @@
-<h1 align="center"> Assalamualaikum warahmatullahi wabarakatuh,👋, I'm I am Muhammad Sumon.</h1>
+<h1 align="center"> Assalamualaikum warahmatullahi wabarakatuh,👋,I'm  Muhammad Sumon.</h1>
 <h3 align="center">MERN Stack Developer and Future App Development Enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
